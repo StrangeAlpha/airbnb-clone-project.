@@ -13,3 +13,10 @@
  Q/A Tester - Surv
  DevOp - 
  Scrum Master - Task master and manager
+
+
+Requirement Gathering
+Requirement Elicitation
+Requirement Documentation
+Requirement Analysis and Modeling
+Requirement Validation.
